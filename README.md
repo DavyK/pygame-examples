@@ -7,7 +7,7 @@ To run
 python game/maze.py
 ```
 Press [SPACE] to start generating a maze from a uniform grid.
-![Maze Generator Demo](maze-making.gif)
+![Maze Generator Demo](maze-making-fast-small.gif)
 
 
 
@@ -18,5 +18,5 @@ To run
 ```
 python game/pathfinding.py
 ```
-![Pathfinding Demo](pathfinding.gif)
+![Pathfinding Demo](pathfinding-fast-small.gif)
 Click anywhere to create white blocks that are treated as impassables. When finished press [SPACE] for the red box to find the green box.
