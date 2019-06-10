@@ -18,5 +18,5 @@ To run
 ```
 python game/pathfinding.py
 ```
-![Pathfinding Demo](Pathfinding.gif)
+![Pathfinding Demo](pathfinding.gif)
 Click anywhere to create white blocks that are treated as impassables. When finished press [SPACE] for the red box to find the green box.
