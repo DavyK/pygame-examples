@@ -1,0 +1,8 @@
+import pygame
+
+
+HEIGHT = 800
+WIDTH = 800
+SCREEN_SIZE = (WIDTH, HEIGHT)
+
+FPS = 30
